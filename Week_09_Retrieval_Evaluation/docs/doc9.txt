@@ -1,0 +1,1 @@
+Data analysis explores data and summarizes patterns. Data science combines analysis and machine learning.

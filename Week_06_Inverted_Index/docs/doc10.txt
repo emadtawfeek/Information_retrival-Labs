@@ -1,0 +1,1 @@
+Search evaluation measures precision and recall. Relevant documents help evaluate ranked information retrieval results.

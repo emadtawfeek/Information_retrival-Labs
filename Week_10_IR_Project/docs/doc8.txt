@@ -1,0 +1,1 @@
+Information retrieval systems build an inverted index of documents. A query retrieves documents using terms.

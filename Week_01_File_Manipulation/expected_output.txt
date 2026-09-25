@@ -1,0 +1,6 @@
+readline: 'First line\n'
+remaining readlines: ['Appended line\n']
+read: 'First line\nAppended line\n'
+doc1 -> Python supports data analysis.
+doc2 -> Java supports web development.
+doc3 -> Networks connect computers.

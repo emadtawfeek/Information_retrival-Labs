@@ -1,0 +1,2 @@
+A collection contains several text documents.
+Each filename can identify one document.

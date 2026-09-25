@@ -1,0 +1,20 @@
+Loaded 10 documents
+python -> ['doc1', 'doc4']
+machine -> ['doc1', 'doc3', 'doc9']
+java -> ['doc2', 'doc5']
+
+Query: python AND data
+python -> ['doc1', 'doc4']
+data -> ['doc1', 'doc4', 'doc6', 'doc7', 'doc9']
+Matched docs: ['doc1', 'doc4']
+
+Query: machine AND learning
+machine -> ['doc1', 'doc3', 'doc9']
+learning -> ['doc1', 'doc3', 'doc9']
+Matched docs: ['doc1', 'doc3', 'doc9']
+
+Query: python AND NOT java
+python -> ['doc1', 'doc4']
+java -> ['doc2', 'doc5']
+NOT java -> ['doc1', 'doc10', 'doc3', 'doc4', 'doc6', 'doc7', 'doc8', 'doc9']
+Matched docs: ['doc1', 'doc4']

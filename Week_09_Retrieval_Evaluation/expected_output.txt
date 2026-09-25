@@ -1,0 +1,39 @@
+
+Query: python data analysis
+Relevant: ['doc1', 'doc4', 'doc9']
+TF-IDF top: ['doc4', 'doc9', 'doc1']
+TP, FP, FN: 3 0 0
+Precision=1.0000 Recall=1.0000 F1=1.0000
+P@3=1.0000
+R@3=1.0000
+Filename baseline top: ['doc1', 'doc10', 'doc2']
+TP, FP, FN: 1 2 2
+Precision=0.3333 Recall=0.3333 F1=0.3333
+P@3=0.3333
+R@3=0.3333
+
+Query: information retrieval documents
+Relevant: ['doc10', 'doc8']
+TF-IDF top: ['doc8', 'doc10']
+TP, FP, FN: 2 0 0
+Precision=1.0000 Recall=1.0000 F1=1.0000
+P@3=0.6667
+R@3=1.0000
+Filename baseline top: ['doc1', 'doc10', 'doc2']
+TP, FP, FN: 1 2 1
+Precision=0.3333 Recall=0.5000 F1=0.4000
+P@3=0.3333
+R@3=0.5000
+
+Query: database queries tables
+Relevant: ['doc6']
+TF-IDF top: ['doc6']
+TP, FP, FN: 1 0 0
+Precision=1.0000 Recall=1.0000 F1=1.0000
+P@3=0.3333
+R@3=1.0000
+Filename baseline top: ['doc1', 'doc10', 'doc2']
+TP, FP, FN: 0 3 1
+Precision=0.0000 Recall=0.0000 F1=0.0000
+P@3=0.0000
+R@3=0.0000

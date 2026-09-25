@@ -1,0 +1,19 @@
+Documents: 10 Vocabulary: 60
+
+Query: python data analysis
+Query tokens: ['python', 'data', 'analysis']
+1. doc4 0.5123
+   Python supports data analysis with libraries like Pandas
+2. doc9 0.4326
+   Data analysis explores data and summarizes patterns. Data science combines analysis and ma
+3. doc1 0.3466
+   Python is great for data science and machine learning
+4. doc6 0.0489
+   Database systems organize structured data in tables. Database queries retrieve data from t
+5. doc7 0.0284
+   Computer networks connect devices using protocols. Networks transfer data between computer
+Evaluation top: ['doc4', 'doc9', 'doc1']
+TP, FP, FN: 3 0 0
+Precision=1.0000 Recall=1.0000 F1=1.0000
+P@3=1.0000
+R@3=1.0000

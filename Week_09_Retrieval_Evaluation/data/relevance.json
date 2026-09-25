@@ -1,0 +1,26 @@
+[
+  {
+    "query": "python data analysis",
+    "relevant": [
+      "doc1",
+      "doc4",
+      "doc9"
+    ],
+    "intent": "Learn about Python or data analysis in a data-science context."
+  },
+  {
+    "query": "information retrieval documents",
+    "relevant": [
+      "doc8",
+      "doc10"
+    ],
+    "intent": "Learn about retrieving documents and evaluating search."
+  },
+  {
+    "query": "database queries tables",
+    "relevant": [
+      "doc6"
+    ],
+    "intent": "Find introductory descriptions of relational database organization."
+  }
+]

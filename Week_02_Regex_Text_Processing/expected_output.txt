@@ -1,0 +1,6 @@
+Numbers: ['15', '8', '23', '4500']
+Emails: ['sales_team@gmail.com', 'helpdesk@yahoo.com']
+Words: ['Hello', 'Python']
+Cleaned paragraph:
+Today the company sold 15 laptops 8 phones and 23 tablets Manager Ahmed said profits reached 4500 Contact us at salesteamgmailcom or helpdeskyahoocom Thank you for visiting
+Normalized newlines: 'first\nsecond\nthird\n'

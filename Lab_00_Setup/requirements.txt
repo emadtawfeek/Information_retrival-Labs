@@ -1,0 +1,13 @@
+# Information Retrieval Labs runtime: Python >= 3.10.
+# The lab code has no third-party pip dependencies.
+# All imports used by the 27 lab Python files are listed below.
+# Standard-library modules supplied with Python (do not pip-install these):
+#   json - read relevance judgments
+#   math - IDF and cosine calculations
+#   os   - file and directory operations
+#   re   - regular expressions and tokenization
+#   sys  - command-line and interpreter access
+# Local modules shipped with the labs (do not pip-install these):
+#   evaluation, file_utils, indexing, preprocessing, ranking, retrieval, tfidf
+# A pip install -r command succeeds without downloading packages because all
+# required code is either built into Python or present in this repository.

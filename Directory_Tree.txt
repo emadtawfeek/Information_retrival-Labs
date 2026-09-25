@@ -1,0 +1,177 @@
+Information_Retrieval_Labs/
+|-- Lab_00_Setup/
+|   |-- python-3.13.15-amd64.exe
+|   |-- README.md
+|   |-- requirements.txt
+|   |-- Setup_Guide.md
+|   `-- Setup_Guide.pdf
+|-- Week_01_File_Manipulation/
+|   |-- data/
+|   |   |-- notes.txt
+|   |   `-- welcome.txt
+|   |-- docs/
+|   |   |-- doc1.txt
+|   |   |-- doc2.txt
+|   |   `-- doc3.txt
+|   |-- exercises_lab01.py
+|   |-- expected_output.txt
+|   |-- IR_Lab_01_File_Manipulation.docx
+|   |-- IR_Lab_01_File_Manipulation.pdf
+|   |-- lab01_file_manipulation.py
+|   `-- README.txt
+|-- Week_02_Regex_Text_Processing/
+|   |-- data/
+|   |   |-- paragraph.txt
+|   |   `-- pattern_practice.txt
+|   |-- exercises_lab02.py
+|   |-- expected_output.txt
+|   |-- IR_Lab_02_Regex_Text_Processing.docx
+|   |-- IR_Lab_02_Regex_Text_Processing.pdf
+|   |-- lab02_regex.py
+|   `-- README.txt
+|-- Week_03_Preprocessing/
+|   |-- docs/
+|   |   |-- doc1.txt
+|   |   |-- doc2.txt
+|   |   |-- doc3.txt
+|   |   |-- doc4.txt
+|   |   `-- doc5.txt
+|   |-- expected_output.txt
+|   |-- IR_Lab_03_Preprocessing.docx
+|   |-- IR_Lab_03_Preprocessing.pdf
+|   |-- lab03_exercises.py
+|   |-- lab03_solution.py
+|   `-- README.txt
+|-- Week_04_Term_Document_Matrix/
+|   |-- docs/
+|   |   |-- doc1.txt
+|   |   |-- doc2.txt
+|   |   |-- doc3.txt
+|   |   |-- doc4.txt
+|   |   `-- doc5.txt
+|   |-- expected_output.txt
+|   |-- IR_Lab_04_Term_Document_Matrix.docx
+|   |-- IR_Lab_04_Term_Document_Matrix.pdf
+|   |-- lab04_exercises.py
+|   |-- lab04_solution.py
+|   `-- README.txt
+|-- Week_05_Boolean_Retrieval/
+|   |-- docs/
+|   |   |-- doc1.txt
+|   |   |-- doc2.txt
+|   |   |-- doc3.txt
+|   |   |-- doc4.txt
+|   |   `-- doc5.txt
+|   |-- expected_output.txt
+|   |-- IR_Lab_05_Boolean_Retrieval.docx
+|   |-- IR_Lab_05_Boolean_Retrieval.pdf
+|   |-- lab05_exercises.py
+|   |-- lab05_solution.py
+|   `-- README.txt
+|-- Week_06_Inverted_Index/
+|   |-- docs/
+|   |   |-- doc1.txt
+|   |   |-- doc10.txt
+|   |   |-- doc2.txt
+|   |   |-- doc3.txt
+|   |   |-- doc4.txt
+|   |   |-- doc5.txt
+|   |   |-- doc6.txt
+|   |   |-- doc7.txt
+|   |   |-- doc8.txt
+|   |   `-- doc9.txt
+|   |-- expected_output.txt
+|   |-- IR_Lab_06_Inverted_Index.docx
+|   |-- IR_Lab_06_Inverted_Index.pdf
+|   |-- lab06_exercises.py
+|   |-- lab06_solution.py
+|   `-- README.txt
+|-- Week_07_TF_IDF/
+|   |-- docs/
+|   |   |-- doc1.txt
+|   |   |-- doc10.txt
+|   |   |-- doc2.txt
+|   |   |-- doc3.txt
+|   |   |-- doc4.txt
+|   |   |-- doc5.txt
+|   |   |-- doc6.txt
+|   |   |-- doc7.txt
+|   |   |-- doc8.txt
+|   |   `-- doc9.txt
+|   |-- expected_output.txt
+|   |-- IR_Lab_07_TF_IDF.docx
+|   |-- IR_Lab_07_TF_IDF.pdf
+|   |-- lab07_exercises.py
+|   |-- lab07_solution.py
+|   `-- README.txt
+|-- Week_08_Vector_Space_Model/
+|   |-- docs/
+|   |   |-- doc1.txt
+|   |   |-- doc10.txt
+|   |   |-- doc2.txt
+|   |   |-- doc3.txt
+|   |   |-- doc4.txt
+|   |   |-- doc5.txt
+|   |   |-- doc6.txt
+|   |   |-- doc7.txt
+|   |   |-- doc8.txt
+|   |   `-- doc9.txt
+|   |-- expected_output.txt
+|   |-- IR_Lab_08_Vector_Space_Model.docx
+|   |-- IR_Lab_08_Vector_Space_Model.pdf
+|   |-- lab08_exercises.py
+|   |-- lab08_solution.py
+|   `-- README.txt
+|-- Week_09_Retrieval_Evaluation/
+|   |-- data/
+|   |   `-- relevance.json
+|   |-- docs/
+|   |   |-- doc1.txt
+|   |   |-- doc10.txt
+|   |   |-- doc2.txt
+|   |   |-- doc3.txt
+|   |   |-- doc4.txt
+|   |   |-- doc5.txt
+|   |   |-- doc6.txt
+|   |   |-- doc7.txt
+|   |   |-- doc8.txt
+|   |   `-- doc9.txt
+|   |-- expected_output.txt
+|   |-- IR_Lab_09_Retrieval_Evaluation.docx
+|   |-- IR_Lab_09_Retrieval_Evaluation.pdf
+|   |-- lab09_exercises.py
+|   |-- lab09_solution.py
+|   |-- README.txt
+|   `-- retrieval.py
+|-- Week_10_IR_Project/
+|   |-- data/
+|   |   `-- relevance.json
+|   |-- docs/
+|   |   |-- doc1.txt
+|   |   |-- doc10.txt
+|   |   |-- doc2.txt
+|   |   |-- doc3.txt
+|   |   |-- doc4.txt
+|   |   |-- doc5.txt
+|   |   |-- doc6.txt
+|   |   |-- doc7.txt
+|   |   |-- doc8.txt
+|   |   `-- doc9.txt
+|   |-- evaluation.py
+|   |-- expected_output.txt
+|   |-- file_utils.py
+|   |-- indexing.py
+|   |-- IR_Lab_10_IR_Project.docx
+|   |-- IR_Lab_10_IR_Project.pdf
+|   |-- lab10_exercises.py
+|   |-- main.py
+|   |-- preprocessing.py
+|   |-- ranking.py
+|   |-- README.txt
+|   `-- tfidf.py
+|-- .gitattributes
+|-- .gitignore
+|-- Course_README.md
+|-- Directory_Tree.txt
+|-- README.md
+`-- Validation_Report.md

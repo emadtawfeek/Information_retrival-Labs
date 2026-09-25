@@ -1,0 +1,8 @@
+*.pdf binary
+*.docx binary
+*.exe binary
+*.md text eol=lf
+*.py text eol=lf
+*.txt text eol=lf
+*.json text eol=lf
+**/expected_output.txt -whitespace

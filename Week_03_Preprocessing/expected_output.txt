@@ -1,0 +1,33 @@
+
+Document: doc1
+Original: Python is great for data science and machine learning
+Lowercase: python is great for data science and machine learning
+Before: ['python', 'is', 'great', 'for', 'data', 'science', 'and', 'machine', 'learning']
+After: ['python', 'great', 'data', 'science', 'machine', 'learning']
+
+Document: doc2
+Original: Java is used for enterprise applications and web development
+Lowercase: java is used for enterprise applications and web development
+Before: ['java', 'is', 'used', 'for', 'enterprise', 'applications', 'and', 'web', 'development']
+After: ['java', 'enterprise', 'applications', 'web', 'development']
+
+Document: doc3
+Original: Machine learning uses neural networks and decision trees
+Lowercase: machine learning uses neural networks and decision trees
+Before: ['machine', 'learning', 'uses', 'neural', 'networks', 'and', 'decision', 'trees']
+After: ['machine', 'learning', 'neural', 'networks', 'decision', 'trees']
+
+Document: doc4
+Original: Python supports data analysis with libraries like Pandas
+Lowercase: python supports data analysis with libraries like pandas
+Before: ['python', 'supports', 'data', 'analysis', 'with', 'libraries', 'like', 'pandas']
+After: ['python', 'supports', 'data', 'analysis', 'libraries', 'pandas']
+
+Document: doc5
+Original: Java and C++ are used for game development and graphics
+Lowercase: java and c++ are used for game development and graphics
+Before: ['java', 'and', 'c', 'are', 'used', 'for', 'game', 'development', 'and', 'graphics']
+After: ['java', 'c', 'game', 'development', 'graphics']
+
+Vocabulary: ['analysis', 'applications', 'c', 'data', 'decision', 'development', 'enterprise', 'game', 'graphics', 'great', 'java', 'learning', 'libraries', 'machine', 'networks', 'neural', 'pandas', 'python', 'science', 'supports', 'trees', 'web']
+Vocabulary size: 22

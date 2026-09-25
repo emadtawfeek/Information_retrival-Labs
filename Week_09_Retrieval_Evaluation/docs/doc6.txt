@@ -1,0 +1,1 @@
+Database systems organize structured data in tables. Database queries retrieve data from tables.

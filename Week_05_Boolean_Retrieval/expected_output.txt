@@ -1,0 +1,26 @@
+Document order: ['doc1', 'doc2', 'doc3', 'doc4', 'doc5']
+
+Query: python AND data
+python -> [1, 0, 0, 1, 0]
+data -> [1, 0, 0, 1, 0]
+Result vector: [1, 0, 0, 1, 0]
+Matched docs: ['doc1', 'doc4']
+
+Query: machine AND learning
+machine -> [1, 0, 1, 0, 0]
+learning -> [1, 0, 1, 0, 0]
+Result vector: [1, 0, 1, 0, 0]
+Matched docs: ['doc1', 'doc3']
+
+Query: python AND NOT java
+python -> [1, 0, 0, 1, 0]
+java -> [0, 1, 0, 0, 1]
+NOT java -> [1, 0, 1, 1, 0]
+Result vector: [1, 0, 0, 1, 0]
+Matched docs: ['doc1', 'doc4']
+
+Query: data AND analysis
+data -> [1, 0, 0, 1, 0]
+analysis -> [0, 0, 0, 1, 0]
+Result vector: [0, 0, 0, 1, 0]
+Matched docs: ['doc4']

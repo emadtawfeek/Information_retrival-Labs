@@ -1,0 +1,13 @@
+Query: python data analysis
+Query magnitude: 2.3793
+Ranking:
+ 1. doc4   0.5123
+ 2. doc9   0.4326
+ 3. doc1   0.3466
+ 4. doc6   0.0489
+ 5. doc7   0.0284
+ 6. doc10  0.0000
+ 7. doc2   0.0000
+ 8. doc3   0.0000
+ 9. doc5   0.0000
+10. doc8   0.0000
