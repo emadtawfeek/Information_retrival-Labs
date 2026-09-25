@@ -26,6 +26,8 @@ The requirements file lists **all modules imported by the lab code**. Five
 are Python standard-library modules (`json`, `math`, `os`, `re`, `sys`); seven
 are local modules included in the week folders. There are no external packages
 for pip to download. The `--no-index` option confirms setup works offline.
+The pip command installs **zero packages by design**; the following import
+check verifies that the Python libraries the labs call are available.
 
 If you already have Python 3.10 or later, skip the installer and replace
 `py -3.13` in these commands with your working Python command, such as `py -3`.

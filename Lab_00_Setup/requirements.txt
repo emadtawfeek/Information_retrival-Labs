@@ -1,14 +1,12 @@
 # Information Retrieval Labs runtime: Python >= 3.10.
 # Recommended classroom version: Python 3.13.15.
-# Official Python 3.13.15 release and downloads:
-#   https://www.python.org/downloads/release/python-31315/
-# Official Windows x64 installer source (the file included in Lab_00_Setup):
-#   https://www.python.org/ftp/python/3.13.15/python-3.13.15-amd64.exe
-# Official CPython 3.13.15 source-code archive:
-#   https://www.python.org/ftp/python/3.13.15/Python-3.13.15.tgz
-# Source archive SHA-256: c28d9d213c09b5b5ab2c29812950e12f746999e099b82894231be954b26baed9
-# The lab code has no third-party pip dependencies.
-# All imports used by the 27 lab Python files are listed below.
+#
+# PIP-INSTALLABLE LIBRARIES: NONE.
+# Running pip install -r on this file installs zero packages by design.
+# Python itself, its standard library, and the local lab modules are already
+# supplied; they must not be written as pip package names below.
+#
+# Every library/module imported by the 27 lab Python files:
 # Standard-library modules supplied with Python (do not pip-install these):
 #   json - read relevance judgments
 #   math - IDF and cosine calculations
@@ -17,5 +15,11 @@
 #   sys  - command-line and interpreter access
 # Local modules shipped with the labs (do not pip-install these):
 #   evaluation, file_utils, indexing, preprocessing, ranking, retrieval, tfidf
-# A pip install -r command succeeds without downloading packages because all
-# required code is either built into Python or present in this repository.
+#
+# Official Python 3.13.15 release and downloads:
+#   https://www.python.org/downloads/release/python-31315/
+# Official Windows x64 installer source (the file included in Lab_00_Setup):
+#   https://www.python.org/ftp/python/3.13.15/python-3.13.15-amd64.exe
+# Official CPython 3.13.15 source-code archive:
+#   https://www.python.org/ftp/python/3.13.15/Python-3.13.15.tgz
+# Source archive SHA-256: c28d9d213c09b5b5ab2c29812950e12f746999e099b82894231be954b26baed9
