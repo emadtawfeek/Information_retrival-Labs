@@ -41,7 +41,9 @@ Validated on 25 September 2026.
 - AST inspection of all 27 lab Python files found exactly five standard-library imports
   (json, math, os, re, sys) and seven included local modules (evaluation, file_utils,
   indexing, preprocessing, ranking, retrieval, tfidf). All twelve are named in
-  requirements.txt; no third-party pip entries are present.
+  requirements.txt; no third-party pip entries are present. The file names the Python
+  3.10+ runtime requirement and links to the official Python 3.13.15 release,
+  Windows installer, and CPython source-code archive.
 - The installer is 29,452,944 bytes. Its SHA-256 matches the value published on the official
   Python release page: `EDEC09C4853AEAE9AC36EFB8C9F95B6B8E2FEE65EEE56D9767A8B7C69C574403`. Windows reports a valid Python Software
   Foundation digital signature.

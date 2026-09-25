@@ -1,4 +1,12 @@
 # Information Retrieval Labs runtime: Python >= 3.10.
+# Recommended classroom version: Python 3.13.15.
+# Official Python 3.13.15 release and downloads:
+#   https://www.python.org/downloads/release/python-31315/
+# Official Windows x64 installer source (the file included in Lab_00_Setup):
+#   https://www.python.org/ftp/python/3.13.15/python-3.13.15-amd64.exe
+# Official CPython 3.13.15 source-code archive:
+#   https://www.python.org/ftp/python/3.13.15/Python-3.13.15.tgz
+# Source archive SHA-256: c28d9d213c09b5b5ab2c29812950e12f746999e099b82894231be954b26baed9
 # The lab code has no third-party pip dependencies.
 # All imports used by the 27 lab Python files are listed below.
 # Standard-library modules supplied with Python (do not pip-install these):

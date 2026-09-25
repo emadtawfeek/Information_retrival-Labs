@@ -3,6 +3,8 @@
 This folder contains the official Python 3.13.15 Windows x64 installer,
 `requirements.txt`, and the full [setup guide](Setup_Guide.pdf)
 ([Markdown version](Setup_Guide.md)). Python 3.10 or later is sufficient.
+The requirements file also links to the official Python 3.13.15 release,
+Windows installer, and CPython source-code archive.
 
 From the extracted course root in PowerShell, install Python if needed:
 
