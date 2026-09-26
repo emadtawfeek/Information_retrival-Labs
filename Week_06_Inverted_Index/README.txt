@@ -12,3 +12,7 @@ Interactive mode: python lab06_solution.py --interactive
 Type quit to exit.
 Missing or empty docs uses the original five fallback documents.
 Expected outputs assume the shipped docs collection, not fallback mode.
+
+Explained student worksheet:
+Student_Lab_Sheet_Week_06_Explained.docx (editable Word)
+Student_Lab_Sheet_Week_06_Explained.pdf (printable PDF)

@@ -12,3 +12,7 @@ Missing or empty docs uses the original five fallback documents.
 Expected outputs assume the shipped docs collection, not fallback mode.
 retrieval.py reuses the Week 8 implementation; keep it in this folder.
 Relevance judgments in data/relevance.json are instructor-defined examples.
+
+Explained student worksheet:
+Student_Lab_Sheet_Week_09_Explained.docx (editable Word)
+Student_Lab_Sheet_Week_09_Explained.pdf (printable PDF)

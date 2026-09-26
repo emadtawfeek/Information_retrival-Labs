@@ -11,3 +11,7 @@ They do not import a solution. Complete them using the laboratory sheet.
 Custom query: python lab08_solution.py "python data analysis"
 Missing or empty docs uses the original five fallback documents.
 Expected outputs assume the shipped docs collection, not fallback mode.
+
+Explained student worksheet:
+Student_Lab_Sheet_Week_08_Explained.docx (editable Word)
+Student_Lab_Sheet_Week_08_Explained.pdf (printable PDF)

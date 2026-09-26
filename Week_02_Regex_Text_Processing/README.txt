@@ -8,3 +8,7 @@ Keep data/docs folders beside the Python files. Paths use the script location,
 so running from a different working directory also works.
 Starter programs run but contain intentional TODOs and placeholder results.
 They do not import a solution. Complete them using the laboratory sheet.
+
+Explained student worksheet:
+Student_Lab_Sheet_Week_02_Explained.docx (editable Word)
+Student_Lab_Sheet_Week_02_Explained.pdf (printable PDF)

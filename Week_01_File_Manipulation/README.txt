@@ -9,3 +9,7 @@ so running from a different working directory also works.
 Starter programs run but contain intentional TODOs and placeholder results.
 They do not import a solution. Complete them using the laboratory sheet.
 Creates docs if missing. Existing docs are preserved. data/notes.txt is reset each run.
+
+Explained student worksheet:
+Student_Lab_Sheet_Week_01_Explained.docx (editable Word)
+Student_Lab_Sheet_Week_01_Explained.pdf (printable PDF)

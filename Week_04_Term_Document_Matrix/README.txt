@@ -10,3 +10,7 @@ Starter programs run but contain intentional TODOs and placeholder results.
 They do not import a solution. Complete them using the laboratory sheet.
 Missing or empty docs uses the original five fallback documents.
 Expected outputs assume the shipped docs collection, not fallback mode.
+
+Explained student worksheet:
+Student_Lab_Sheet_Week_04_Explained.docx (editable Word)
+Student_Lab_Sheet_Week_04_Explained.pdf (printable PDF)

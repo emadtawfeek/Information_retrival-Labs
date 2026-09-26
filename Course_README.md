@@ -54,6 +54,17 @@ Weeks 5 and 6 support [NOT] term (AND [NOT] term)*. AND and NOT are case-insensi
 operator words. Terms use ASCII letters. OR, parentheses, and implicit AND are outside
 the baseline grammar. Week 10 accepts free text; Boolean search is an optional exercise.
 
+## Explained student worksheets
+
+The [student worksheet index](Student_Lab_Sheets_Index.md) links to ten English
+worksheets, each in editable Word and printable PDF. In each week, look for
+`Student_Lab_Sheet_Week_XX_Explained.docx` and its matching `.pdf`. Each worksheet
+contains five A4 pages of explained concepts, an executed worked example, a
+walkthrough of the actual weekly code, guided activities, checkpoints, a blank
+test record, common errors, independent work, and submission instructions.
+Students record their observations and answers in the worksheet. The original
+weekly lab sheet remains the longer reference with full code listings.
+
 ## Files in each week
 
 Each week contains an editable A4 DOCX lab sheet, a matching PDF, a working Python

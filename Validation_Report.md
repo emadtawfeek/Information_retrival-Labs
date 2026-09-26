@@ -1,19 +1,20 @@
 # Information Retrieval Laboratory Package Validation
 
-Validated on 25 September 2026.
+Original course validation completed on 25 September 2026. Explained student worksheets
+and final package validation completed on 26 September 2026.
 
-| Week | DOCX | PDF | Solution PY | Exercise PY | Data | Tested | Pages |
-|---|---|---|---|---|---|---|---|
-| 01 | Yes | Yes | Yes | Yes | Yes | Yes | 4 |
-| 02 | Yes | Yes | Yes | Yes | Yes | Yes | 4 |
-| 03 | Yes | Yes | Yes | Yes | Yes | Yes | 4 |
-| 04 | Yes | Yes | Yes | Yes | Yes | Yes | 4 |
-| 05 | Yes | Yes | Yes | Yes | Yes | Yes | 5 |
-| 06 | Yes | Yes | Yes | Yes | Yes | Yes | 5 |
-| 07 | Yes | Yes | Yes | Yes | Yes | Yes | 5 |
-| 08 | Yes | Yes | Yes | Yes | Yes | Yes | 5 |
-| 09 | Yes | Yes | Yes | Yes | Yes | Yes | 5 |
-| 10 | Yes | Yes | Yes | Yes | Yes | Yes | 7 |
+| Week | Reference DOCX/PDF | Student DOCX/PDF | Solution PY | Exercise PY | Data | Tested | Reference pages | Student pages |
+|---|---|---|---|---|---|---|---|---|
+| 01 | Yes | Yes | Yes | Yes | Yes | Yes | 4 | 5 |
+| 02 | Yes | Yes | Yes | Yes | Yes | Yes | 4 | 5 |
+| 03 | Yes | Yes | Yes | Yes | Yes | Yes | 4 | 5 |
+| 04 | Yes | Yes | Yes | Yes | Yes | Yes | 4 | 5 |
+| 05 | Yes | Yes | Yes | Yes | Yes | Yes | 5 | 5 |
+| 06 | Yes | Yes | Yes | Yes | Yes | Yes | 5 | 5 |
+| 07 | Yes | Yes | Yes | Yes | Yes | Yes | 5 | 5 |
+| 08 | Yes | Yes | Yes | Yes | Yes | Yes | 5 | 5 |
+| 09 | Yes | Yes | Yes | Yes | Yes | Yes | 5 | 5 |
+| 10 | Yes | Yes | Yes | Yes | Yes | Yes | 7 | 5 |
 
 ## Execution and numerical validation
 
@@ -52,7 +53,7 @@ Validated on 25 September 2026.
 
 ## Document and PDF validation
 
-- Ten A4 DOCX files and ten PDFs contain the same substantive material. Each PDF was exported
+- Ten original A4 DOCX files and ten PDFs contain the same substantive material. Each PDF was exported
   directly from its corresponding DOCX by Microsoft Word.
 - Each laboratory has all eleven required numbered sections. Main code listings match the
   delivered Python source exactly; the Week 10 sheet also includes all supporting modules.
@@ -65,6 +66,22 @@ Validated on 25 September 2026.
   blank pages, or unresolved layout defects remain.
 - Typography is consistent: 18 pt titles, 16 pt main headings, 14 pt subheadings, 11 pt body,
   and 9 pt monospace code. Code blank-line spacing is compacted without removing source lines.
+
+## Explained English student worksheets
+
+- Ten additional Word worksheets and ten matching PDFs are linked in Student_Lab_Sheets_Index.md.
+  Each has five A4 pages; all 50 student worksheet pages were reviewed visually
+  at their full rendered size using the document skill's Poppler rasterization path.
+- The worksheets include explained background, executed worked examples and output, exact
+  excerpts from the weekly program, guided activities, prediction checkpoints, a blank test
+  record, common errors, independent exercises, submission instructions, and exit questions.
+- All ten worked examples were executed. Each code excerpt matches the supplied program's
+  function source. Paragraph content was compared with extracted PDF text; every page passed
+  the margin/overflow checks and visual inspection for readable code, tables, answer space,
+  page transitions, and missing glyphs. No clipping or unresolved layout defects remain.
+- Student answer spaces and test observations are intentionally blank. The original full
+  reference sheets, Python programs, data, and requirements remain available beside them.
+- The complete package now contains 20 Word documents and 21 PDFs, including the Lab 0 guide.
 
 ## Source and scope checks
 
@@ -102,7 +119,9 @@ Information_Retrieval_Labs/
 |   |-- IR_Lab_01_File_Manipulation.docx
 |   |-- IR_Lab_01_File_Manipulation.pdf
 |   |-- lab01_file_manipulation.py
-|   `-- README.txt
+|   |-- README.txt
+|   |-- Student_Lab_Sheet_Week_01_Explained.docx
+|   `-- Student_Lab_Sheet_Week_01_Explained.pdf
 |-- Week_02_Regex_Text_Processing/
 |   |-- data/
 |   |   |-- paragraph.txt
@@ -112,7 +131,9 @@ Information_Retrieval_Labs/
 |   |-- IR_Lab_02_Regex_Text_Processing.docx
 |   |-- IR_Lab_02_Regex_Text_Processing.pdf
 |   |-- lab02_regex.py
-|   `-- README.txt
+|   |-- README.txt
+|   |-- Student_Lab_Sheet_Week_02_Explained.docx
+|   `-- Student_Lab_Sheet_Week_02_Explained.pdf
 |-- Week_03_Preprocessing/
 |   |-- docs/
 |   |   |-- doc1.txt
@@ -125,7 +146,9 @@ Information_Retrieval_Labs/
 |   |-- IR_Lab_03_Preprocessing.pdf
 |   |-- lab03_exercises.py
 |   |-- lab03_solution.py
-|   `-- README.txt
+|   |-- README.txt
+|   |-- Student_Lab_Sheet_Week_03_Explained.docx
+|   `-- Student_Lab_Sheet_Week_03_Explained.pdf
 |-- Week_04_Term_Document_Matrix/
 |   |-- docs/
 |   |   |-- doc1.txt
@@ -138,7 +161,9 @@ Information_Retrieval_Labs/
 |   |-- IR_Lab_04_Term_Document_Matrix.pdf
 |   |-- lab04_exercises.py
 |   |-- lab04_solution.py
-|   `-- README.txt
+|   |-- README.txt
+|   |-- Student_Lab_Sheet_Week_04_Explained.docx
+|   `-- Student_Lab_Sheet_Week_04_Explained.pdf
 |-- Week_05_Boolean_Retrieval/
 |   |-- docs/
 |   |   |-- doc1.txt
@@ -151,7 +176,9 @@ Information_Retrieval_Labs/
 |   |-- IR_Lab_05_Boolean_Retrieval.pdf
 |   |-- lab05_exercises.py
 |   |-- lab05_solution.py
-|   `-- README.txt
+|   |-- README.txt
+|   |-- Student_Lab_Sheet_Week_05_Explained.docx
+|   `-- Student_Lab_Sheet_Week_05_Explained.pdf
 |-- Week_06_Inverted_Index/
 |   |-- docs/
 |   |   |-- doc1.txt
@@ -169,7 +196,9 @@ Information_Retrieval_Labs/
 |   |-- IR_Lab_06_Inverted_Index.pdf
 |   |-- lab06_exercises.py
 |   |-- lab06_solution.py
-|   `-- README.txt
+|   |-- README.txt
+|   |-- Student_Lab_Sheet_Week_06_Explained.docx
+|   `-- Student_Lab_Sheet_Week_06_Explained.pdf
 |-- Week_07_TF_IDF/
 |   |-- docs/
 |   |   |-- doc1.txt
@@ -187,7 +216,9 @@ Information_Retrieval_Labs/
 |   |-- IR_Lab_07_TF_IDF.pdf
 |   |-- lab07_exercises.py
 |   |-- lab07_solution.py
-|   `-- README.txt
+|   |-- README.txt
+|   |-- Student_Lab_Sheet_Week_07_Explained.docx
+|   `-- Student_Lab_Sheet_Week_07_Explained.pdf
 |-- Week_08_Vector_Space_Model/
 |   |-- docs/
 |   |   |-- doc1.txt
@@ -205,7 +236,9 @@ Information_Retrieval_Labs/
 |   |-- IR_Lab_08_Vector_Space_Model.pdf
 |   |-- lab08_exercises.py
 |   |-- lab08_solution.py
-|   `-- README.txt
+|   |-- README.txt
+|   |-- Student_Lab_Sheet_Week_08_Explained.docx
+|   `-- Student_Lab_Sheet_Week_08_Explained.pdf
 |-- Week_09_Retrieval_Evaluation/
 |   |-- data/
 |   |   `-- relevance.json
@@ -226,7 +259,9 @@ Information_Retrieval_Labs/
 |   |-- lab09_exercises.py
 |   |-- lab09_solution.py
 |   |-- README.txt
-|   `-- retrieval.py
+|   |-- retrieval.py
+|   |-- Student_Lab_Sheet_Week_09_Explained.docx
+|   `-- Student_Lab_Sheet_Week_09_Explained.pdf
 |-- Week_10_IR_Project/
 |   |-- data/
 |   |   `-- relevance.json
@@ -252,11 +287,14 @@ Information_Retrieval_Labs/
 |   |-- preprocessing.py
 |   |-- ranking.py
 |   |-- README.txt
+|   |-- Student_Lab_Sheet_Week_10_Explained.docx
+|   |-- Student_Lab_Sheet_Week_10_Explained.pdf
 |   `-- tfidf.py
 |-- .gitattributes
 |-- .gitignore
 |-- Course_README.md
 |-- Directory_Tree.txt
 |-- README.md
+|-- Student_Lab_Sheets_Index.md
 `-- Validation_Report.md
 ```

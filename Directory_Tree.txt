@@ -18,7 +18,9 @@ Information_Retrieval_Labs/
 |   |-- IR_Lab_01_File_Manipulation.docx
 |   |-- IR_Lab_01_File_Manipulation.pdf
 |   |-- lab01_file_manipulation.py
-|   `-- README.txt
+|   |-- README.txt
+|   |-- Student_Lab_Sheet_Week_01_Explained.docx
+|   `-- Student_Lab_Sheet_Week_01_Explained.pdf
 |-- Week_02_Regex_Text_Processing/
 |   |-- data/
 |   |   |-- paragraph.txt
@@ -28,7 +30,9 @@ Information_Retrieval_Labs/
 |   |-- IR_Lab_02_Regex_Text_Processing.docx
 |   |-- IR_Lab_02_Regex_Text_Processing.pdf
 |   |-- lab02_regex.py
-|   `-- README.txt
+|   |-- README.txt
+|   |-- Student_Lab_Sheet_Week_02_Explained.docx
+|   `-- Student_Lab_Sheet_Week_02_Explained.pdf
 |-- Week_03_Preprocessing/
 |   |-- docs/
 |   |   |-- doc1.txt
@@ -41,7 +45,9 @@ Information_Retrieval_Labs/
 |   |-- IR_Lab_03_Preprocessing.pdf
 |   |-- lab03_exercises.py
 |   |-- lab03_solution.py
-|   `-- README.txt
+|   |-- README.txt
+|   |-- Student_Lab_Sheet_Week_03_Explained.docx
+|   `-- Student_Lab_Sheet_Week_03_Explained.pdf
 |-- Week_04_Term_Document_Matrix/
 |   |-- docs/
 |   |   |-- doc1.txt
@@ -54,7 +60,9 @@ Information_Retrieval_Labs/
 |   |-- IR_Lab_04_Term_Document_Matrix.pdf
 |   |-- lab04_exercises.py
 |   |-- lab04_solution.py
-|   `-- README.txt
+|   |-- README.txt
+|   |-- Student_Lab_Sheet_Week_04_Explained.docx
+|   `-- Student_Lab_Sheet_Week_04_Explained.pdf
 |-- Week_05_Boolean_Retrieval/
 |   |-- docs/
 |   |   |-- doc1.txt
@@ -67,7 +75,9 @@ Information_Retrieval_Labs/
 |   |-- IR_Lab_05_Boolean_Retrieval.pdf
 |   |-- lab05_exercises.py
 |   |-- lab05_solution.py
-|   `-- README.txt
+|   |-- README.txt
+|   |-- Student_Lab_Sheet_Week_05_Explained.docx
+|   `-- Student_Lab_Sheet_Week_05_Explained.pdf
 |-- Week_06_Inverted_Index/
 |   |-- docs/
 |   |   |-- doc1.txt
@@ -85,7 +95,9 @@ Information_Retrieval_Labs/
 |   |-- IR_Lab_06_Inverted_Index.pdf
 |   |-- lab06_exercises.py
 |   |-- lab06_solution.py
-|   `-- README.txt
+|   |-- README.txt
+|   |-- Student_Lab_Sheet_Week_06_Explained.docx
+|   `-- Student_Lab_Sheet_Week_06_Explained.pdf
 |-- Week_07_TF_IDF/
 |   |-- docs/
 |   |   |-- doc1.txt
@@ -103,7 +115,9 @@ Information_Retrieval_Labs/
 |   |-- IR_Lab_07_TF_IDF.pdf
 |   |-- lab07_exercises.py
 |   |-- lab07_solution.py
-|   `-- README.txt
+|   |-- README.txt
+|   |-- Student_Lab_Sheet_Week_07_Explained.docx
+|   `-- Student_Lab_Sheet_Week_07_Explained.pdf
 |-- Week_08_Vector_Space_Model/
 |   |-- docs/
 |   |   |-- doc1.txt
@@ -121,7 +135,9 @@ Information_Retrieval_Labs/
 |   |-- IR_Lab_08_Vector_Space_Model.pdf
 |   |-- lab08_exercises.py
 |   |-- lab08_solution.py
-|   `-- README.txt
+|   |-- README.txt
+|   |-- Student_Lab_Sheet_Week_08_Explained.docx
+|   `-- Student_Lab_Sheet_Week_08_Explained.pdf
 |-- Week_09_Retrieval_Evaluation/
 |   |-- data/
 |   |   `-- relevance.json
@@ -142,7 +158,9 @@ Information_Retrieval_Labs/
 |   |-- lab09_exercises.py
 |   |-- lab09_solution.py
 |   |-- README.txt
-|   `-- retrieval.py
+|   |-- retrieval.py
+|   |-- Student_Lab_Sheet_Week_09_Explained.docx
+|   `-- Student_Lab_Sheet_Week_09_Explained.pdf
 |-- Week_10_IR_Project/
 |   |-- data/
 |   |   `-- relevance.json
@@ -168,10 +186,13 @@ Information_Retrieval_Labs/
 |   |-- preprocessing.py
 |   |-- ranking.py
 |   |-- README.txt
+|   |-- Student_Lab_Sheet_Week_10_Explained.docx
+|   |-- Student_Lab_Sheet_Week_10_Explained.pdf
 |   `-- tfidf.py
 |-- .gitattributes
 |-- .gitignore
 |-- Course_README.md
 |-- Directory_Tree.txt
 |-- README.md
+|-- Student_Lab_Sheets_Index.md
 `-- Validation_Report.md

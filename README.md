@@ -14,3 +14,8 @@ The [course README](Course_README.md) lists every weekly command, explains the
 data folders, and documents the teaching progression. Each week contains an
 editable lab sheet, a PDF copy, runnable code, exercises, sample data, and
 expected output.
+
+Use the [explained English student worksheets](Student_Lab_Sheets_Index.md) for
+step-by-step practical work. Every week includes a five-page Word worksheet and
+matching PDF, with worked examples, guided activities, checkpoints, common errors,
+and submission instructions.

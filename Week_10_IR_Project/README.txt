@@ -13,3 +13,7 @@ Type quit to exit.
 Custom query: python main.py "python data analysis"
 Keep all seven Python modules together. Missing/empty docs reports an error.
 Evaluation uses data/relevance.json when present; unjudged queries still rank.
+
+Explained student worksheet:
+Student_Lab_Sheet_Week_10_Explained.docx (editable Word)
+Student_Lab_Sheet_Week_10_Explained.pdf (printable PDF)
